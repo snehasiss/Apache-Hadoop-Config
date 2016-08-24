@@ -49,6 +49,7 @@ or, by using Linux man page:
 ```
     man Apache::Hadoop::Config
 ```
+Also available as a cpan package at http://search.cpan.org/~snehasis/Apache-Hadoop-Config-0.01/
 
 Copyright and Licence:
 ----------------------
